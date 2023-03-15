@@ -1,15 +1,9 @@
 # exe-system-bot-0.1
 Just a simple discord slash command bot manage to get yourself an Active Developer badge.
 
-<sub>NOTE !</sub>
+```diff
+- NOTE ! red
+```
 
 * you have to use "`npm i discord.js`" in your terminal and make sure to put your bot token in ./JSON/config.json/*
 * after instaling the discord.js packge you can easly run you bot using the command "`node .`" in your terminal.
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
